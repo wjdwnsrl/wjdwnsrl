@@ -1,16 +1,124 @@
-## Hi there 👋
+# 정준기
 
-<!--
-**wjdwnsrl/wjdwnsrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science & Information Management
 
-Here are some ideas to get you started:
+ai.소프트웨어를 공부하며
+기술과 정보를 활용하여 실제 문제를 해결하는 방법을 탐구하고 있습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+프로그래밍을 바탕으로
+데이터 및 정보 관리, 소프트웨어 개발, 인공지능 등의 분야를 학습하고 있습니다.
+
+현재는 다양한 프로젝트와 실습을 통해
+기술적 역량을 확장하고 관심 분야를 구체화하는 데 집중하고 있습니다.
+
+### Computer Science & Information Management
+
+
+> 실제 문제를 해결하는 방법을 탐구하고 있습니다.
+
+---
+
+## 전공 및 관심 분야
+
+### 전공
+
+- ai소프트웨어
+
+### 관심 분야
+
+- 소프트웨어 교육
+- 데이터 및 정보 관리
+- 데이터 분석
+- 정보시스템
+- 인공지능 및 AI
+- 웹 기술
+- 문제 해결을 위한 기술 활용
+
+> 관심 분야는 현재 학습 과정에 따라 지속적으로 확장하고 있습니다.
+
+---
+
+## 기술 스택
+
+### Programming
+
+- C
+- Python
+
+
+### Web
+
+- HTML
+- CSS
+- JavaScript
+
+
+
+### Development Tools
+
+- Git
+- GitHub
+
+
+---
+
+## 학습 과정
+
+현재 다음과 같은 분야를 중심으로 기초 역량을 쌓고 있습니다.
+
+### Computer Science
+
+- 문제해결형 프로그래밍
+- 웹프로그래밍 기초
+- 컴퓨터 시스템
+- ai.sw수학
+
+### Information Management
+
+- 정보의 수집 및 구조화
+- 데이터 관리
+- 정보시스템
+- 데이터 기반 문제 해결
+
+### Development
+
+- Git / GitHub를 활용한 버전 관리
+- 프로젝트 기반 학습
+- 코드 작성 및 디버깅
+- 기술 문서 작성 및 기록
+
+---
+
+
+
+**주요 내용**
+
+- [파이썬의 내용을 공부하며 전진하는 중]
+- [깃 허브의 기초 역량 훈련]
+
+**Tech Stack**
+
+`[파이썬]` `[c언어]` `[깃허브]`
+
+[Repository](프로젝트 링크)
+
+---
+
+
+
+## 문제 해결 방식
+
+제가 프로젝트와 학습에서 중요하게 생각하는 과정입니다.
+
+```text
+문제 정의
+    ↓
+요구사항 및 정보 분석
+    ↓
+해결 방법 설계
+    ↓
+기술 적용 및 구현
+    ↓
+테스트 및 문제 수정
+    ↓
+결과 분석 및 개선
